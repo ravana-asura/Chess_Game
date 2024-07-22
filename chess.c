@@ -81,10 +81,10 @@ void players()
 {
     char username1[30], username2[30], choice;
     printf("\t\t\t\t\t\t <<<<<<< WELCOM TO CHESS >>>>>>");
-    printf("\nPlayer 1, Enter your name:  ");
+    printf("\n hello Player 1, Enter your name:  ");
     gets(player[0].playerName);
 
-    printf("\nPlayer 2, Enter your name:  ");
+    printf("\n hello Player 2, Enter your name:  ");
     gets(player[1].playerName);
     system("cls");
     printf("\n\t\t\t\t\t\t\t  ");
